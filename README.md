@@ -1,7 +1,7 @@
 # SpammerAssistant
 Assistente vocale con funzioni di spam
 # Problemi
-Con i PC portatili potrebbe non funzionare /n
+Con i PC portatili potrebbe non funzionare. 
 L'assistente non può prendere comandi mentre sta mandando messaggi
 Se usi un comando mentre parli normalmente, alcuni comandi come manda messaggi potrebbero riprendere insieme alla richiesta le parole che stavi dicendo
 # Utilizzo
